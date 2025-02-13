@@ -6,6 +6,10 @@
 This is official implementation of Rethinking the Approach to Lightweight Multi-Branch Heterogeneous Image Fusion Frameworks: Infrared and Visible Image Fusion via the Parallel Mamba-KAN Framework with Pytorch.
 
 
+## Efficiency and Effectiveness
+![Image text](https://github.com/sunyichen1994/PMKFuse/blob/main/Efficiency%20and%20Effectiveness/Figure2.png)
+
+
 ## Recommended Environment
  * causal-conv1d 1.1.0
  * CUDA 11.8
