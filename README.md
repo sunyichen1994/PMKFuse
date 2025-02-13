@@ -17,6 +17,11 @@ This is official implementation of Rethinking the Approach to Lightweight Multi-
 ![Image text](https://github.com/sunyichen1994/PMKFuse/blob/main/Figure/Figure2.png)
 
 
+## Tips
+
+The Trained Model is [here](https://pan.baidu.com/s/1yLiuprgQh47LRp3Oop16xQ?pwd=PMKF), and the code is: PMKF.
+
+
 ## Recommended Environment
  * causal-conv1d 1.1.0
  * CUDA 11.8
