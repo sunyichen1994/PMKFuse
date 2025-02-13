@@ -7,13 +7,15 @@ This is official implementation of Rethinking the Approach to Lightweight Multi-
 
 
 ## Recommended Environment
- * CUDA 11.1
+ * causal-conv1d 1.1.0
+ * CUDA 11.8
  * conda 4.11.0
+ * mamba-ssm 1.2.0.post1
  * Python 3.7.16
- * PyTorch 1.9.0
- * timm 0.9.7
- * tqdm 4.65.0
- * pandas 1.3.5
+ * PyTorch 2.1.1
+ * timm 1.0.3
+ * tqdm 4.66.4
+ * pandas 2.2.2
 
 
 ## Citation
