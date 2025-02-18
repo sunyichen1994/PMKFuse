@@ -5,7 +5,7 @@
 
 ## Introduction
 
-This is official implementation of Rethinking the Approach to Lightweight Multi-Branch Heterogeneous Image Fusion Frameworks: Infrared and Visible Image Fusion via the Parallel Mamba-KAN Framework with Pytorch.
+This is official implementation of ["Rethinking the approach to lightweight multi-branch heterogeneous image fusion frameworks: Infrared and visible image fusion via the parallel Mamba-KAN framework"](https://www.sciencedirect.com/science/article/pii/S0030399225002002?dgcid=coauthor) with Pytorch.
 
 
 ## Objective Evaluation and Subjective Visual Assessments Metrics
