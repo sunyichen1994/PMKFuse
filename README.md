@@ -41,13 +41,12 @@ If you find this repository useful, please consider citing the following paper:
 ```
 @article{sun2025JOLT,
   title={Rethinking the Approach to Lightweight Multi-Branch Heterogeneous Image Fusion Frameworks: Infrared and Visible Image Fusion via the Parallel Mamba-KAN Framework},
-  author={},
+  author={Sun, Yichen and Dong, Mingli and Zhu, Lianqing},
   journal={Optics and Laser Technology},
   year={2025},
-  volume={},
-  part={},
+  volume={185},
   pages={112612},
-  doi={}
+  doi={10.1016/j.optlastec.2025.112612}
   }  
 ```
 
